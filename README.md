@@ -9,7 +9,7 @@ Interested in the world of data analysis.
 
 🎓 &nbsp;4th year student of Industrial Engineering and Management at [Jerusalem College of Engineering (JCE)](https://english.jce.ac.il/).\
 ✉️ &nbsp;You can shoot me an email at umalul@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](@urimalul) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -39,7 +39,9 @@ Interested in the world of data analysis.
 
 <p align="center">
 <a href="www.linkedin.com/in/uri-malul"><img src="https://img.shields.io/badge/-Uri%20Malul-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://bitbucket.org/umalul/"><img src="https://img.shields.io/badge/-umalul-0077B5?style=flat&logo=bitbucket&logoColor=white"/></a>
 <a href="mailto:umalul@gmail.com"><img src="https://img.shields.io/badge/-umalul@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/uri_malul/"><img src="https://img.shields.io/badge/-@uri_malul-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/uri.malul"><img src="https://img.shields.io/badge/-@uri.malul-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/UMalul"><img src="https://img.shields.io/badge/-UMalul-0077B5?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
